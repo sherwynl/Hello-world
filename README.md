@@ -1,2 +1,2 @@
 # Hello-world
-First repository
+Hi, i'm Sherwyn and I major in computer science .
